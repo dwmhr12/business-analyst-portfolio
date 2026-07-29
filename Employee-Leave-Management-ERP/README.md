@@ -41,28 +41,6 @@ The objective of this project is to analyze and design a centralized employee le
 
 ---
 
-## 🔍 Business Analysis Approach
-
-The project follows a structured Business Analysis approach:
-
-1. Business Problem Analysis
-
-2. Stakeholder Analysis
-
-3. Current State Analysis (As-Is Process)
-
-4. Gap Analysis
-
-5. Future State Design (To-Be Process)
-
-6. Requirements Definition
-
-7. Testing & Validation
-
-8. ERP Configuration Documentation
-
----
-
 ## 📂 Project Documentation
 
 | No | Document | Description |
@@ -90,19 +68,6 @@ The project follows a structured Business Analysis approach:
 | Business Process Modeling | BPMN.io / Draw.io |
 | Documentation | Microsoft Office |
 | Version Control | GitHub |
-
----
-
-## 📌 Project Status
-
-🚧 In Progress
-
-Current progress:
-- ✅ Business Problem Analysis
-- ⏳ Stakeholder Analysis
-- ⏳ Process Modeling
-- ⏳ Requirement Documentation
-- ⏳ ERP Configuration Documentation
 
 ---
 
