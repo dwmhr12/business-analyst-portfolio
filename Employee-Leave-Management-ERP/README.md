@@ -46,28 +46,20 @@ The objective of this project is to analyze and design a centralized employee le
 The project follows a structured Business Analysis approach:
 
 1. Business Problem Analysis
-   - Identify current business challenges and pain points
 
 2. Stakeholder Analysis
-   - Identify stakeholders, roles, influence, and requirements
 
 3. Current State Analysis (As-Is Process)
-   - Model existing leave request processes using BPMN
 
 4. Gap Analysis
-   - Analyze differences between current processes and desired improvements
 
 5. Future State Design (To-Be Process)
-   - Design optimized business processes supported by ERP
 
 6. Requirements Definition
-   - Document business requirements, functional requirements, and use cases
 
 7. Testing & Validation
-   - Define test scenarios and User Acceptance Testing (UAT)
 
 8. ERP Configuration Documentation
-   - Document Odoo configuration related to employee leave management
 
 ---
 
