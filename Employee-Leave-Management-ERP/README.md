@@ -25,7 +25,7 @@ Topics covered in the blog include:
 - Requirement Engineering
 - ERP Implementation Analysis
 
-🔗 **Business Analyst Learning Blog:** [Your Blog URL]
+🔗 **Business Analyst Learning Blog:** [Dewi Maharani Blog](https://dewimhr7.wordpress.com/)
 
 ---
 
