@@ -114,12 +114,16 @@ Current progress:
 
 ---
 
-## 🔗 Project & Learning Resources
+## 🌐 Portfolio & Learning Resources
+
+This project is part of my Business Analyst portfolio. 
+You can explore the complete portfolio, project summaries, and related learning articles through the following resources:
 
 | Resource | Link |
 |---|---|
-| Project Repository | GitHub Repository |
-| Related Blog Article | Your Blog URL |
+| Portfolio Website | [Your Portfolio URL](https://dwmhr.vercel.app/) |
+| Business Analyst Blog | [Your Blog URL](https://dewimhr7.wordpress.com/)] |
+| GitHub Repository | [Repository URL] |
 
 ---
 
