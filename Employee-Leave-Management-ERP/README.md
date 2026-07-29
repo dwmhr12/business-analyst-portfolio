@@ -121,9 +121,9 @@ You can explore the complete portfolio, project summaries, and related learning 
 
 | Resource | Link |
 |---|---|
-| Portfolio Website | [Your Portfolio URL](https://dwmhr.vercel.app/) |
-| Business Analyst Blog | [Your Blog URL](https://dewimhr7.wordpress.com/)] |
-| GitHub Repository | [Repository URL] |
+| Portfolio Website | [Dewi Maharani Portfolio](https://dwmhr.vercel.app/) |
+| Business Analyst Blog | [Business Analyst Blog](https://dewimhr7.wordpress.com/) |
+| GitHub Repository | [[GitHub Profile](https://github.com/dwmhr12)] |
 
 ---
 
