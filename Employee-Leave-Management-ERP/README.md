@@ -21,7 +21,7 @@ Topics covered in the blog include:
 - Introduction to Business Analysis
 - Business Problem Analysis
 - Stakeholder Identification and Analysis
-- Business Process Modeling using BPMN
+- Business Process Modeling 
 - Requirement Engineering
 - ERP Implementation Analysis
 
