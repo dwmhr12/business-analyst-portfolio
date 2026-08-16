@@ -49,14 +49,9 @@ The objective of this project is to analyze and design a centralized employee le
 | 02 | Stakeholder Analysis | Maps stakeholders and their involvement |
 | 03 | As-Is BPMN | Models the current leave management process |
 | 04 | Process Gap Analysis | Identifies process gaps and improvement opportunities |
-| 05 | ERP Module Analysis | Evaluates ERP modules required for the solution |
-| 06 | To-Be BPMN | Designs the improved future process |
-| 07 | Business Requirement Document | Defines business requirements |
-| 08 | Functional Requirement | Defines system functionalities |
-| 09 | Use Case Model | Describes system interactions |
-| 10 | Test Scenario and Test Case | Defines testing scenarios |
-| 11 | User Acceptance Testing | Validates solution acceptance |
-| 12 | Odoo Configuration Documentation | Documents ERP implementation configuration |
+| 05 | To-Be BPMN | Designs the improved future process |
+| 06 | Functional Requirement | Defines system functionalities |
+| 07 | Odoo Configuration Documentation | Documents ERP implementation configuration |
 
 ---
 
