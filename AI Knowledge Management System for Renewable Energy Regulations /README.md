@@ -8,12 +8,6 @@ The project focuses on analyzing the challenges of manually searching and interp
 
 The proposed solution applies a **Retrieval-Augmented Generation (RAG)** approach to help users retrieve relevant regulatory information and generate answers based on a centralized knowledge base of renewable energy regulations.
 
-> **Project Type:** Business Analysis & AI Solution Design
-> **Domain:** Renewable Energy Regulations
-> **Approach:** Retrieval-Augmented Generation (RAG)
-> **Role:** Business Analyst / System Analyst
-> **Year:** 2026
-
 ---
 
 ## 🎯 Business Objective
