@@ -2,6 +2,8 @@
 
 ## 📌 Project Overview
 
+![Project Cover](./Cover.png)
+
 This project presents a **Business Analysis and AI Solution Design** case study for an AI-based knowledge management system focused on renewable energy regulations in Indonesia.
 
 The case study is based on a final year project that analyzes how regulatory documents can be processed and retrieved to support regulatory information search and question answering.
