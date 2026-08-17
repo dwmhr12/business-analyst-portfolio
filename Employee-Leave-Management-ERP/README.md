@@ -105,7 +105,7 @@ The As-Is process is compared with the desired business process to identify gaps
 
 A future-state process is designed to address the identified gaps and introduce a more centralized workflow supported by an ERP system.
 
-![To-Be BPMN](05_To-Be-BPMN.png)
+![To-Be BPMN](./05%20To-Be%20BPMN.png)
 
 ### 6. Functional Requirements
 
