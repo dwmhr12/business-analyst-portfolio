@@ -86,7 +86,7 @@ Key stakeholders include:
 
 The current process of searching for regulatory information is modeled to establish a baseline for identifying inefficiencies.
 
-![As-Is Process](./03_As-Is%20Process.png)
+![As-Is BPMN](./03_As%20Is%20BPMN.png)
 
 ### 4. Process Gap Analysis
 
@@ -102,7 +102,7 @@ The current process is compared with the desired process to identify improvement
 
 The future-state process introduces a centralized knowledge base and AI-assisted regulatory information retrieval.
 
-![To-Be Process](./05_To-Be%20Process.png)
+![To-Be BPMN](./05_To-Be%20BPMN.png)
 
 ### 6. Requirements Definition
 
