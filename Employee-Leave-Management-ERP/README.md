@@ -85,7 +85,8 @@ Key stakeholders include:
 The current leave request and approval workflow is modeled using BPMN to visualize how the process works before ERP implementation.
 
 **Current Process:**
-<img src="03_As-Is-BPMN.png" alt="As-Is BPMN" width="400">
+
+![As-Is BPMN](03_As%20Is%20BPMN.png)
 
 The BPMN model provides a baseline for identifying inefficiencies and improvement opportunities.
 
@@ -104,14 +105,7 @@ The As-Is process is compared with the desired business process to identify gaps
 
 A future-state process is designed to address the identified gaps and introduce a more centralized workflow supported by an ERP system.
 
-The proposed process includes:
-
-- Digital leave submission
-- Structured approval workflow
-- Approval status tracking
-- System notifications
-- Centralized leave records
-- HR monitoring and reporting
+![To-Be BPMN](05_To-Be-BPMN.png)
 
 ### 6. Functional Requirements
 
@@ -121,12 +115,12 @@ Examples include:
 
 | ID | Requirement |
 |---|---|
-| FR-01 | Employee can submit a leave request through the system |
-| FR-02 | Manager can review and approve or reject leave requests |
-| FR-03 | HR can monitor and manage leave requests |
-| FR-04 | System provides notifications regarding approval status |
-| FR-05 | Leave information is stored centrally |
-| FR-06 | Authorized users can access leave-related reports |
+| FR-01 | Kelola Data Employee |
+| FR-02 | Kelola Hubungan Manager-Employee |
+| FR-03 | Kelola User & Hak Akses |
+| FR-04 | Konfigurasi Leave Type |
+| FR-05 | Konfigurasi Approval Workflow |
+| FR-06 | Lihat Saldo Cuti |
 
 ### 7. Odoo Configuration
 
@@ -157,13 +151,13 @@ The detailed analysis and supporting artifacts are organized into separate docum
 
 | No. | Documentation | Description |
 |---|---|---|
-| 01 | [Business Problem Analysis](./01-business-problem-analysis/) | Identifies the current business problems, impacts, and business needs |
-| 02 | [Stakeholder Analysis](./02-stakeholder-analysis/) | Identifies stakeholders and analyzes their roles and involvement |
-| 03 | [As-Is BPMN](./03-as-is-bpmn/) | Models the existing employee leave management process |
-| 04 | [Process Gap Analysis](./04-process-gap-analysis/) | Compares the current process with the desired future state |
-| 05 | [To-Be BPMN](./05-to-be-bpmn/) | Designs the improved future-state business process |
-| 06 | [Functional Requirements](./06-functional-requirement/) | Defines functional requirements derived from business needs |
-| 07 | [Odoo Configuration](./07-odoo-configuration/) | Documents how the proposed process is mapped to Odoo |
+| 01 | [Business Problem Analysis](./01_Business_Problem_Analysis.pdf) | Identifies the current business problems, impacts, and business needs |
+| 02 | [Stakeholder Analysis](./02_Stakeholder_Analysis.xlsx) | Identifies stakeholders and analyzes their roles and involvement |
+| 03 | [As-Is BPMN](./03_As%20Is%20BPMN.png) | Models the existing employee leave management process |
+| 04 | [Process Gap Analysis](./04_Process%20Gap%20Analysis.png) | Compares the current process with the desired future state |
+| 05 | [To-Be BPMN](./05_To-Be%20BPMN.png) | Designs the improved future-state business process |
+| 06 | [Functional Requirements](./06_Functional%20Requirement%20Document.pdf) | Defines functional requirements derived from business needs |
+| 07 | [Odoo Configuration](./07_Odoo%20Configuration%20Documentation.pdf) | Documents how the proposed process is mapped to Odoo |
 
 > **Note:** Each folder contains the detailed analysis, diagrams, and supporting documentation for the corresponding Business Analysis activity.
 
@@ -211,11 +205,4 @@ The accompanying blog discusses the theoretical concepts behind the activities a
 
 **Dewi Maharani**
 
-Information Systems Student | Aspiring Business Analyst
-
-Interested in **Business Analysis, Business Process Modeling, System Analysis, ERP, and Data**.
-
-[GitHub](https://github.com/dwmhr12) · [Portfolio](https://dwmhr.vercel.app/)
- tersebut ke ERP.”**
-
-Itu positioning yang lebih cocok kalau kamu mau diarahkan ke **Business Analyst / System Analyst**, sementara Odoo menjadi bukti implementasinya.
+Information Systems Graduate | Business Analyst
