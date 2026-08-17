@@ -85,7 +85,7 @@ Key stakeholders include:
 The current leave request and approval workflow is modeled using BPMN to visualize how the process works before ERP implementation.
 
 **Current Process:**
-![As-Is BPMN](03_As%20Is%20BPMN.png)
+<img src="03_As-Is-BPMN.png" alt="As-Is BPMN" width="400">
 
 The BPMN model provides a baseline for identifying inefficiencies and improvement opportunities.
 
