@@ -2,6 +2,8 @@
 
 ## 📌 Project Overview
 
+![TaskSync Cover](./cover.png)
+
 This project demonstrates the **Software Requirements Specification (SRS)** process for TaskSync, a task and productivity management application.
 
 The project focuses on analyzing user needs, defining functional and non-functional requirements, specifying system features, documenting business rules, and developing system analysis models to support the design and development of the application.
