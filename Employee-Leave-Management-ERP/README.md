@@ -2,6 +2,8 @@
 
 ## 📌 Project Overview
 
+![Project Cover](./sampul.png)
+
 This project presents a Business Analysis case study for designing an **ERP-based Employee Leave Management System using Odoo**.
 
 The project simulates an organization that currently manages employee leave requests through **email and spreadsheets**. The existing process creates challenges in approval coordination, leave data tracking, process visibility, and HR reporting.
